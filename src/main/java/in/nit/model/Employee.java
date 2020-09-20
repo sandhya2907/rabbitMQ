@@ -8,6 +8,7 @@ public class Employee {
 
 	private String empId;
 	private String empName;
+	private String empAddress;
 
 	public Employee() {
 		super();
@@ -28,6 +29,16 @@ public class Employee {
 
 	public void setEmpName(String empName) {
 		this.empName = empName;
+	}
+	
+	
+
+	public String getEmpAddress() {
+		return empAddress;
+	}
+
+	public void setEmpAddress(String empAddress) {
+		this.empAddress = empAddress;
 	}
 
 	@Override
