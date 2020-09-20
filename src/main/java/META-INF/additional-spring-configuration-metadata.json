@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "javainuse.rabbitmq.exchange",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.exchange'"
+  },
+  {
+    "name": "javainuse.rabbitmq.queue",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.queue'"
+  },
+  {
+    "name": "javainuse.rabbitmq.routingKey",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.routingKey'"
+  },
+  {
+    "name": "javainuse.rabbitmq.routingKey",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.routingKey'"
+  },
+  {
+    "name": "javainuse.rabbitmq.routingKey",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.routingKey'"
+  },
+  {
+    "name": "javainuse.rabbitmq.routingKey",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.routingKey'"
+  }
+]}
