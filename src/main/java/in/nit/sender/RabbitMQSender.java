@@ -20,6 +20,7 @@ public class RabbitMQSender {
 	public void send(Employee employee) {
 		template.convertAndSend(exchange,routingKey,employee);
 		System.out.println(employee);
+		System.out.println("Modified");
 	}
 
 }
